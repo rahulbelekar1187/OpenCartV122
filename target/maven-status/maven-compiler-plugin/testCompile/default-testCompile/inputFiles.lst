@@ -4,9 +4,11 @@ C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\pageObjects\HomePage
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\pageObjects\LoginPage.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\testBase\BaseClass.java
+C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\testCases\ChildBrowserPopUp.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\testCases\TC004_Search.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\utilities\AXLUtility.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\utilities\DataProviders.java
 C:\Users\rahul\eclipse-workspace\OpenCartV122\src\test\java\utilities\ExtentReportManager.java
